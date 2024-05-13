@@ -34,3 +34,5 @@ This command deploys all your existing changes。
 #### Do `git add xxx` after all changes are done. If you want to use `git add .`, make sure you do `git status` in the first place to avoid adding unwanted files. Then do `git commit -m "some meaningful message"` to commit your changes.
 #### Do `git push origin your-branch-name` to push the code change to remote branch.
 #### Create a pull request on the GitHub page. Merge the PR after making sure there is no conflict.
+### `Author`
+CS 6440 class project, collaborated with Fan Shu, Yu Ji, Jiamin, Wan
